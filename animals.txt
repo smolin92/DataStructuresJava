@@ -1,0 +1,1 @@
+Does the animal have whiskers? % Does the animal swim? % seal % cat % Does it have spots? % Is it black and white? % cow % cheetah % horse

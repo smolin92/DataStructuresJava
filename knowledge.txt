@@ -1,0 +1,2 @@
+Does it have a backbone? % Does your animal have hair or fur? % Does your animal eat meat? % Tiger % Horse
+ % Goldfish % Does your animal have a shell? % Does it live in the ocean? % Lobster % Snail % Octopus
